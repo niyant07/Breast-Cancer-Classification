@@ -196,7 +196,7 @@ Extracted using Mean Decrease in Impurity (Gini Importance) from the Random Fore
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Breast-Cancer-Classification.git
+git clone https://github.com/niyant07/Breast-Cancer-Classification.git
 cd Breast-Cancer-Classification
 ```
 
